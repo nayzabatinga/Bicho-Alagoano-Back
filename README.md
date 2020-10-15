@@ -1,5 +1,9 @@
 # Bicho-Alagoano-Back
 
+### Tecnologia utilizada
+-- Node com TypeScript utilizando Functions Firebase
+-- Conexão com Firebase
+
 ## Back-end
 Todo o conteúdo relacionado ao back-end está disponível na branch master
 
